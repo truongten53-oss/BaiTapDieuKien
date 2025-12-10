@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Luyện tập if else if </title>
+</head>
+<body>
+<script>
+    var userName = prompt("Tên Đăng Nhập",'');
+    if (userName == 'admin')  {
+        alert('Xin Chào');
+        var pass = prompt("Mật Khẩu  ",'');
+        if (pass == 'themaster') {
+            alert ("Xin Chào");
+        } else if (pass == null) {
+            alert("Đã Hủy");
+        } else {
+            alert("Sai Mk");
+        }
+    } else if (userName == null) {
+            alert("Đã Hủy");
+    } else {
+        alert("Sai Tên Đăng Nhập ");
+    }
+
+
+
+
+</script>
+
+</body>
+</html>

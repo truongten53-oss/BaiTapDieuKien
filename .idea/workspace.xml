@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="69e27c2c-6393-423b-842f-2bc054126cb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LuyenTapDKif-else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DieuKien if else if.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +34,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.DieuKien if else if.html.executor": "Run",
+    "JavaScript Debug.LuyenTapDKif-else.html.executor": "Run",
     "JavaScript Debug.TinhNamNhuan.html.executor": "Run",
     "JavaScript Debug.test.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -63,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765331989977</updated>
-      <workItem from="1765331991046" duration="2846000" />
+      <workItem from="1765331991046" duration="5917000" />
     </task>
     <servers />
   </component>
